@@ -1,0 +1,1 @@
+# ashino8020.github.io
