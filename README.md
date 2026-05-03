@@ -24,7 +24,7 @@
 |---|---|---|
 | `ashino8020.github.io` | https://ashino8020.github.io | トップページ（ハブ） |
 | `engine` | https://ashino8020.github.io/engine | 参加証 & AMI社会貢献試算エンジン |
-| `-passbook` | https://ashino8020.github.io/-passbook | AMI社会貢献通帳 |
+| `-passbook` | https://ashino8020.github.io/passbook | AMI社会貢献通帳 |
 | `api` | https://ashino8020.github.io/api | 連携API仕様書 |
 
 ---
